@@ -246,3 +246,10 @@ This project demonstrates:
 ## 🌟 Project Vision
 The long-term vision of this project is to evolve into a complete Human Resource Management System (HRMS) capable of handling employee records, departments, payroll, attendance, authentication, reporting, and analytics within a scalable enterprise-grade architecture.
 ---
+## 👨‍💻 Author
+### Charanpreet Singh
+Developed as a full-stack web application demonstrating modern frontend-backend integration, REST API development, database management, and scalable software architecture.
+---
+<p align="center">
+  ⭐ If you found this project useful, consider giving it a star!
+</p>
